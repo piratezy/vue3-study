@@ -1,5 +1,5 @@
 import {createApp} from "vue/dist/vue.esm-bundler.js"
-import App from "./App"
+import App from "./App.vue"
 
 //创建挂载到页面
 //mount返回的就是根组件的实例
